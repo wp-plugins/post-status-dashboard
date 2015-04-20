@@ -1,0 +1,59 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Post Status Dashboard\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-04-16 03:37+1000\n"
+"PO-Revision-Date: 2015-04-16 03:38+1000\n"
+"Last-Translator: FuzzGuard <info@fuzzguard.com.au>\n"
+"Language-Team: Development <info@fuzzguard.com.au>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: AUSTRALIA\n"
+"X-Poedit-SearchPath-0: \\\\optus.com.au\\oms\\GROUP09\\NMCT1\\MyDocs\\Benjamin guy\\Documents\\projects\\post-status-dashboard\n"
+
+#: \\optus.com.au\oms\GROUP09\NMCT1\MyDocs\Benjamin
+#: guy\Documents\projects\post-status-dashboard/post-status-dashboard.php:70
+msgid "Please, configure the widget ?"
+msgstr ""
+
+#: \\optus.com.au\oms\GROUP09\NMCT1\MyDocs\Benjamin
+#: guy\Documents\projects\post-status-dashboard/post-status-dashboard.php:97
+msgid "Today"
+msgstr ""
+
+#: \\optus.com.au\oms\GROUP09\NMCT1\MyDocs\Benjamin
+#: guy\Documents\projects\post-status-dashboard/post-status-dashboard.php:99
+msgid "Tomorrow"
+msgstr ""
+
+#: \\optus.com.au\oms\GROUP09\NMCT1\MyDocs\Benjamin
+#: guy\Documents\projects\post-status-dashboard/post-status-dashboard.php:102
+msgid "M jS"
+msgstr ""
+
+#: \\optus.com.au\oms\GROUP09\NMCT1\MyDocs\Benjamin
+#: guy\Documents\projects\post-status-dashboard/post-status-dashboard.php:117
+msgid "No posts to load"
+msgstr ""
+
+#: \\optus.com.au\oms\GROUP09\NMCT1\MyDocs\Benjamin
+#: guy\Documents\projects\post-status-dashboard/post-status-dashboard.php:121
+#: guy\Documents\projects\post-status-dashboard/post-status-dashboard.php:153
+msgid "Category"
+msgstr ""
+
+#: \\optus.com.au\oms\GROUP09\NMCT1\MyDocs\Benjamin
+#: guy\Documents\projects\post-status-dashboard/post-status-dashboard.php:122
+#: guy\Documents\projects\post-status-dashboard/post-status-dashboard.php:163
+msgid "Status"
+msgstr ""
+
+#: \\optus.com.au\oms\GROUP09\NMCT1\MyDocs\Benjamin
+#: guy\Documents\projects\post-status-dashboard/post-status-dashboard.php:151
+msgid "Select a Post Category and Status"
+msgstr ""
+
