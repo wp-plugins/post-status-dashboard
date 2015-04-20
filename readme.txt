@@ -27,7 +27,13 @@ This plugin will also allow you to view posts based on any post status that is r
 
 == Frequently Asked Questions ==
 
-= Can I have more than one Post Status Dashboard widget for a different post status?
+= Can I localize this plugin for my own language? =
+
+Yes you can.  Included now in this plugin is a folder call "lang".  Within this folder is a file called "privilege-menu.pot".  This file can be used to create the localized translations for your own language using poedit.
+
+If you contact me after you have done this through my website at: https://www.fuzzguard.com.au/contact/ I can include this translation file in the next plugin release.  You will be credited for your work of course.
+
+= Can I have more than one Post Status Dashboard widget for a different post status? =
 
 Not currently.  This will be added in a a later version of the software.
 
