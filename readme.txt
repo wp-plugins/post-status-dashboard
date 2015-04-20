@@ -1,4 +1,4 @@
-=== Privilege Widget ===
+=== Post Status Dashboard ===
 Contributors: fuzzguard
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=G8SPGAVH8RTBU
 tags: post, status, dashboard, type
